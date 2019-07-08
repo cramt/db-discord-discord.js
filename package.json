@@ -116,5 +116,5 @@
         "webpack": "parallel-webpack"
     },
     "types": "./typings/index.d.ts",
-    "version": "11.5.1"
+    "version": "11.5.2"
 }
